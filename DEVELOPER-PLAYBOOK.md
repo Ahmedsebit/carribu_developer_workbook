@@ -22,6 +22,8 @@ These are documented requirements, not evidence that GitHub protections, CI, own
 
 Use synthetic accounts and a local/staging environment for development. Do not run training or test automation against production.
 
+Use the [Product Tracking Workbook](PRODUCT-TRACKING-WORKBOOK.md) for cross-team priorities, current-cycle work, owners, blockers and acceptance/release summaries. Link implementation issues and PRs rather than duplicating their detailed checklists.
+
 ## 2. Git workflow
 
 Use short-lived branches into `main`. Do not introduce permanent `develop`, personal integration or release branches by default. Keep `main` releasable: merging code does not itself authorize a production release.

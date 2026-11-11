@@ -8,6 +8,10 @@ Read [Carribu: Team Handover, Onboarding and Six-Month Development Plan](CARRIBU
 
 Use the [Developer Playbook](DEVELOPER-PLAYBOOK.md) for proposed daily contribution rules: branch and commit naming, PR reviews, squash merges, code conventions, testing, security, releases and incidents. Its Git workflow uses short-lived branches into `main`. Engineering-owner approval and repository configuration are still required; this document does not activate GitHub protections.
 
+Use the [Product Tracking Workbook](PRODUCT-TRACKING-WORKBOOK.md) to plan priorities and outcomes, track current work, assign owners, surface blockers and record acceptance and releases. It includes empty live templates and a separate fictional planning cycle with populated backlog, blocker, acceptance and review examples, not a populated live backlog.
+
+Use the [Product Manager Workbook](PRODUCT-MANAGER-WORKBOOK.md) to track whole products from discovery through launch, agree quarterly expectations, review portfolio health and measure post-launch results. It includes launch gates, quarterly reviews and a fictional product-to-launch example.
+
 | Section | Contents |
 |---|---|
 | [Full-stack team plan](CARRIBU-HANDOVER-AND-ONBOARDING.md#part-a-full-stack-team-plan) | Backend, admin, super-admin, technical foundations, onboarding, tests and release readiness |
