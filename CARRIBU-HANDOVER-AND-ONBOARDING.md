@@ -519,6 +519,8 @@ Reuse existing runners. Add dependencies or framework changes only for an approv
 
 ## C3. Daily engineering practices
 
+Use the [Developer Playbook](DEVELOPER-PLAYBOOK.md) for the proposed Git workflow, naming conventions, review gates, implementation standards and release rules. It defines short-lived branches into `main`, reviewed PRs and squash merges. Engineering-owner approval and repository-level configuration are required before these proposed rules can be treated as adopted and enforced.
+
 | Practice | Required habit |
 |---|---|
 | Small changes | One coherent objective per PR; avoid unrelated fixes |
