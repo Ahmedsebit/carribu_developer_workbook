@@ -6,6 +6,8 @@ Onboarding, engineering practice and ownership-transfer documentation for Carrib
 
 Read [Carribu: Team Handover, Onboarding and Six-Month Development Plan](CARRIBU-HANDOVER-AND-ONBOARDING.md).
 
+Use the [Developer Playbook](DEVELOPER-PLAYBOOK.md) for proposed daily contribution rules: branch and commit naming, PR reviews, squash merges, code conventions, testing, security, releases and incidents. Its Git workflow uses short-lived branches into `main`. Engineering-owner approval and repository configuration are still required; this document does not activate GitHub protections.
+
 | Section | Contents |
 |---|---|
 | [Full-stack team plan](CARRIBU-HANDOVER-AND-ONBOARDING.md#part-a-full-stack-team-plan) | Backend, admin, super-admin, technical foundations, onboarding, tests and release readiness |
